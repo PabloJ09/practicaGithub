@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practicaGithub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+688793a068af43316fce5e7b483c8207c086cce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("practicaGithub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practicaGithub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

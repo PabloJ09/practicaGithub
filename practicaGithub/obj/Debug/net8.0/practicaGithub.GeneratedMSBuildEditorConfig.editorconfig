@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = practicaGithub
 build_property.RootNamespace = practicaGithub
-build_property.ProjectDir = D:\Universidad\Progra Avanzada\practicaGithub\
+build_property.ProjectDir = C:\Users\Sheyris\Source\Repos\practicaGithub\practicaGithub\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Universidad\Progra Avanzada\practicaGithub
+build_property.MSBuildProjectDirectory = C:\Users\Sheyris\Source\Repos\practicaGithub\practicaGithub
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/Home/Index.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/Home/Privacy.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/Shared/Error.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/_ViewImports.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/_ViewStart.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Universidad/Progra Avanzada/practicaGithub/Views/Shared/_Layout.cshtml]
+[C:/Users/Sheyris/Source/Repos/practicaGithub/practicaGithub/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s0hucfce36
